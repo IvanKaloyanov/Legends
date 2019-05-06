@@ -71,7 +71,12 @@
 }
 .value-description {
   opacity: 1.8;
-  font-weight: 300;
+  font-weight: 700;
+}
+
+.lf-section{
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 5%;
 }
 
 /* Help
